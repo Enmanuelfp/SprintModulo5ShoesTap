@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SprintModulo5</string>
+    <string name="nameStore">Shoes Tap</string>
+
+    <string name="zapatos">Zapatos</string>
+    <string name="zapatillas">Zapatillas</string>
+
+    <string name="title_shoe_1">zapato_rojo1</string>
+    <string name="title_shoe_2">zapato_marron3</string>
+    <string name="title_shoe_3">zapato_negro1</string>
+    <string name="title_shoe_4">zapato_negro2</string>
+    <string name="title_shoe_5">zapato_negro3</string>
+    <string name="title_shoe_6">zapato_marron1</string>
+    <string name="title_shoe_7">zapato_marron2</string>
+
+    <string name="title_sneaker_1">zapatilla roja</string>
+    <string name="title_sneaker_2">zapatilla_colores</string>
+    <string name="title_sneaker_3">zapatilla_azul</string>
+    <string name="title_sneaker_4">zapatilla_azul2</string>
+    <string name="title_sneaker_5">zapatilla_azul3</string>
+    <string name="title_sneaker_6">zapatilla_verde1</string>
+    <string name="title_sneaker_7">zapatilla_verde2</string>
+</resources>
